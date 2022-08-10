@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **SaraRasoulian/SaraRasoulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![banner](https://user-images.githubusercontent.com/51083712/183974096-31b9d0dd-b068-4920-9a23-ec8a1d20c6bf.gif)
+
