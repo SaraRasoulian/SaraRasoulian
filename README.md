@@ -1,8 +1,8 @@
-<h1 align="left">Greetings! </h1>
+<h1 align="left">Greetings! 😎 </h1>
 
 <p align="left">My name is Sara and I'm a software developer from Iran</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with 🛠️</h2>
 
 <p align="left">Back End</p>
 
