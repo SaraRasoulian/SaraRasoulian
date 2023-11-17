@@ -1,8 +1,8 @@
-<h1 align="left">Greetings! </h1>
+<h2 align="left">Hello GitHub visitor 👋 </h2>
 
-<p align="left">My name is Sara and I'm a software developer from Iran</p>
+<p align="left">I'm Sara Rasoulian, a passionate software developer based in Iran.</p>
 
-<h2 align="left">I code with 🛠️</h2>
+<h3 align="left">I code with 🛠️</h3>
 
 ###
 
