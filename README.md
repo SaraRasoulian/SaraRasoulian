@@ -1,6 +1,6 @@
 <h2 align="left">Hello GitHub visitor 👋 </h2>
 
-<p align="left">I'm Sara Rasoulian, a passionate software developer based in Iran.</p>
+<p align="left">I'm Sara Rasoulian, a passionate software developer from in Iran.</p>
 
 <h3 align="left">I code with 🛠️</h3>
 
