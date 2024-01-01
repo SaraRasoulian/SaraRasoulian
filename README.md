@@ -1,6 +1,6 @@
-<h2 align="left">Hello GitHub visitor 👋 </h2>
+<h2 align="left">Hello GitHub Visitor 👋 </h2>
 
-<p align="left">I'm Sara, a self-taught and passionate software developer from Iran.</p>
+<p align="left">I'm Sara, a self-taught software developer from Iran.</p>
 
 <h3 align="left">I code with 🛠️</h3>
 
