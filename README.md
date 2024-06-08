@@ -1,6 +1,6 @@
 <h2 align="left">Hello GitHub Visitor 👋 </h2>
 
-<p align="left">I'm Sara, a self-taught and passionate software developer specializing in C# .NET. I'm looking to contribute to open-source projects. </p>
+<p align="left">I'm Sara, a software developer specializing in C# .NET. I like to contribute to open-source projects. </p>
 
 <h3 align="left">I code with 🛠️</h3>
 
